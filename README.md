@@ -8,3 +8,6 @@ Goal: Travel assistence app is a tool that uses modern AI techniques like embedd
  2. Ingest PDF : Ingest the pdf guild into searchable
  3. Retrieve ANSWERS : Use AI to fetch travel information from pdf
  4. Deploy to Cloud : Launch the app on cloud infrastructure for users.
+
+Fontend : Streamlit : https://docs.streamlit.io/
+Backend : FastAPI : https://fastapi.tiangolo.com/
