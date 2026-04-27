@@ -1,7 +1,7 @@
 # genAI-python
 python-OpenAI API-Flask or Fast API-Streamlit-Pandas numpy-Eng management Tool
 
-This project helps to create Travel Agent assistence app by using Gen AI with Python
+This project helps to create Agent assistence app by using Gen AI with Python
 We can learn all Step of setting it up, developing it and running by this project.
 Goal: Travel assistence app is a tool that uses modern AI techniques like embeddings and retreval to answer travel related queries based on the provided guide.
  1. Set up Env : Set up working local developmenet 
