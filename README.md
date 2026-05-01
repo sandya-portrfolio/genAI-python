@@ -11,3 +11,5 @@ Goal: Travel assistence app is a tool that uses modern AI techniques like embedd
 
 Fontend : Streamlit : https://docs.streamlit.io/
 Backend : FastAPI : https://fastapi.tiangolo.com/
+GitHub 
+Python : langchain, transformers, torch, accelerate, sentence-transformers, qdrant-client, pymupdf, fastapi, streamlit, uvicorn, python-dotenv, requests, langchain-community, langchain-huggingface, langchain-openai, python-multipart
